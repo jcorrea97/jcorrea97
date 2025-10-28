@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=jcorrea97)](https://holopin.io/@jcorrea97)
-
+[![An image of @jcorrea97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jcorrea97)](https://holopin.io/@jcorrea97)
